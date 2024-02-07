@@ -29,3 +29,10 @@ Bu uygulama, iş ilanlarını listeleyebileceğiniz ve yeni iş ilanları ekleye
 - @reduxjs/toolkit
 - uuid
 - react-icons
+
+# Video
+
+
+
+Uploading Vite + React ve diğer 1 sayfa - Profil 2 - Microsoft​ Edge 2024-02-07 02-19-03.mp4…
+
